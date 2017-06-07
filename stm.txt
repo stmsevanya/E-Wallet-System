@@ -1,0 +1,53 @@
+satyam
+9002769333
+stm
+stm@ew
+Your NickName
+none
+632
+Full KYC Wallet
+10/05/17 11:34:20   You added Rs. 3478
+10/05/17 11:35:05   You added Rs. 568
+10/05/17 11:36:25   You sent Rs. 3456 to the UserId : amazon
+10/05/17 11:37:05   You sent Rs. 499 to Merchant : SnapDeal
+10/05/17 11:59:33   You added Rs. 1200
+10/05/17 12:00:54   You sent Rs. 123 to the UserId : stm
+10/05/17 12:00:54   You recievd Rs. 123 from UserId : stm
+10/05/17 12:02:07   You sent Rs. 1200 to the UserId : stm
+10/05/17 12:02:07   You recievd Rs. 1200 from UserId : stm
+10/05/17 12:02:27   You sent Rs. 120 to Merchant : Abof
+10/05/17 12:13:28   You sent Rs. 100 to Merchant : Abof
+10/05/17 12:14:49   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 12:15:22   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 12:33:49   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 12:42:05   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 12:45:50   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 12:45:50   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 12:45:50   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 13:13:52   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 13:13:52   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 13:18:54   You sent Rs. 71 to Merchant : Flipkart
+10/05/17 13:27:54   You sent Rs. 100 to the UserId : amazon
+10/05/17 13:35:25   You added Rs. 1500
+10/05/17 13:35:50   You sent Rs. 500 to Merchant : Amazon
+10/05/17 13:36:16   You sent Rs. 100 to the UserId : amazon
+10/05/17 13:43:06   You sent Rs. 12 to the UserId : Abof
+10/05/17 14:02:40   You sent Rs. 100 to Merchant : Amazon
+10/05/17 14:10:36   You deposited money Rs. 100 in Bank : CBI
+10/05/17 14:11:06   You deposited money Rs. 100 in Bank : CANARA BANK
+10/05/17 15:04:53   You sent Rs. 65 to UserId : 1
+10/05/17 15:22:03   You sent Rs. 100 to Merchant : Flipkart
+10/05/17 15:32:22   You added Rs. 1455
+10/05/17 15:32:47   You added Rs. 378
+10/05/17 15:33:04   You sent Rs. 356 to UserId : 1
+10/05/17 15:33:27   You sent Rs. 348 to Merchant : Abof
+10/05/17 15:33:51   You deposited money Rs. 332 in Bank : RBI
+10/05/17 15:41:58   You added Rs. 263
+10/05/17 15:42:17   You added Rs. 356
+10/05/17 15:42:38   You sent Rs. 634 to UserId : 1
+10/05/17 15:44:27   You sent Rs. 100 to UserId : 1
+10/05/17 15:44:38   You sent Rs. 100 to Merchant : Amazon
+10/05/17 15:45:13   You deposited money Rs. 100 in Bank : CANARA BANK
+29/05/17 09:47:42   You added Rs. 450
+29/05/17 09:48:29   You sent Rs. 500 to Merchant : SnapDeal
+29/05/17 09:48:58   You sent Rs. 100 to UserId : 1
